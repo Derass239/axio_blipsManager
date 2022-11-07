@@ -59,3 +59,5 @@ For image, add in stream/maps_blips.ytd
 
 Recommended size 512x256
 
+### Original
+Blips info : https://github.com/glitchdetector/fivem-blip-info
