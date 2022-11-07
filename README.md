@@ -10,7 +10,9 @@ Maps :
 
 ![image](https://i.imgur.com/V79FkiG.png)
 
-## Usage
+## Dependencies
+
+- [OxLib](https://github.com/overextended/ox_lib)
 
 ## Usage
 
