@@ -3,10 +3,16 @@
 Allow to display or hide blips
 
 Menu disable / enable : 
-https://i.imgur.com/WYktLci.png
 
-Maps : https://i.imgur.com/V79FkiG.png
+![image](https://i.imgur.com/WYktLci.png)
 
+Maps : 
+
+![image](https://i.imgur.com/V79FkiG.png)
+
+## Dependencies
+
+- [OxLib](https://github.com/overextended/ox_lib)
 
 ## Usage
 
@@ -59,3 +65,5 @@ For image, add in stream/maps_blips.ytd
 
 Recommended size 512x256
 
+### Original
+Blips info : https://github.com/glitchdetector/fivem-blip-info
