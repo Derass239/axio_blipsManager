@@ -3,5 +3,6 @@
     "title":"Blips Manager",
     "description":"Les blips %s sont maintenant %s",
     "visible":"visible",
-    "hidden":"caché"
+    "hidden":"caché",
+    "noBlips":"Aucun blip dans le menu"
 }

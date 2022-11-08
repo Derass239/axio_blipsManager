@@ -1,7 +1,8 @@
 {
-    "keybind":"Ouvrir le gestionnaire de blips",
+    "keybind":"Open blips manager",
     "title":"Blips Manager",
-    "description":"Les blips %s sont maintenant %s",
+    "description":"Blips %s are now %s",
     "visible":"visible",
-    "hidden":"caché"
+    "hidden":"hidden",
+    "noBlips":"No blips register in menu"
 }

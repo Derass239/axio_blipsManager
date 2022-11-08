@@ -33,7 +33,16 @@ function setup()
 		table.insert(elements, {label = k, checked = defaultIndex})
 	end
 
-	lib.setMenuOptions('blipManager_menu', elements)
-	lib.showMenu('blipManager_menu')
+	if #elements > 0 then
+		lib.setMenuOptions('blipManager_menu', elements)
+		lib.showMenu('blipManager_menu')
+	else
+		lib.notify({
+			title = locale('title'),
+			description  = locale('noBlips'),
+			type = "error",
+			position = 'top'
+		})
+	end
 end
 
